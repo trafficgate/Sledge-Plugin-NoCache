@@ -1,0 +1,7 @@
+Revision history for Perl extension Sledge::Plugin::NoCache
+
+0.02  Thu Oct 24 16:10:37 JST 2002
+	* Add 'POST' option to automatically call set_no_cache() on POST request
+
+0.01  Tue Jan  8 18:43:17 2002
+	- original version
